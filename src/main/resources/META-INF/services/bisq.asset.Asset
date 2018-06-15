@@ -106,6 +106,7 @@ bisq.asset.coins.Zcash
 bisq.asset.coins.Zcoin
 bisq.asset.coins.ZenCash
 bisq.asset.tokens.BetterBetting
+bisq.asset.tokens.BettingWin
 bisq.asset.tokens.DaiStablecoin
 bisq.asset.tokens.Ellaism
 bisq.asset.tokens.Exceed
